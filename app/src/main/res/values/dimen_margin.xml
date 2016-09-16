@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_large_basic">12dp</dimen>
+    <dimen name="margin_large_extra_half">15dp</dimen>
+    <dimen name="margin_normal_half">7dp</dimen>
+    <dimen name="margin_normal_large">8dp</dimen>
+    <dimen name="margin_very_very_large">15dp</dimen>
+    <dimen name="margin_extra_large">20dp</dimen>
+</resources>
