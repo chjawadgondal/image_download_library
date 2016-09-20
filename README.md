@@ -2,7 +2,7 @@
 
 This project provide Android Library for downloading images asynchronously. Also take in mind the expansion in mind for future up gradation to JSON and XML handling.
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=8XxnIcrwA3Q)
+[![Demo Doccou alpha](https://gifs.com/gif/gJ0gKG)](https://www.youtube.com/watch?v=8XxnIcrwA3Q)
 
 ### What is this repository for? ###
 
