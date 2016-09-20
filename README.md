@@ -8,7 +8,6 @@ This project provide Android Library for downloading images asynchronously. Also
 
 * Mutipurpose Image download library for android.
 * Version : v1.0
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
